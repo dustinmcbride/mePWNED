@@ -4,6 +4,16 @@
 A CLI for Troy Hunt's "Pwned Passwords" API. This utility will tell you if your password appears in the "Pwned Passwords" database
 For more info see https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/
 
+## Getting started
+Clone this repo
+```
+git clone git@github.com:dustinmcbride/mePWNED.git
+```
+then npm install
+```
+cd mePWNED && npm i
+```
+
 ## Usage
 ```
 npm start
